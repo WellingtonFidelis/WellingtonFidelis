@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>.Wellington_Fidelis</h1>
+<br>
+<hr>
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/wellington-fidelis-7b02b167/">
+  <img height="30" src="https://img1.gratispng.com/20180525/yz/kisspng-social-media-linkedin-computer-icons-logo-desktop-5b081f91dc0218.3765375215272590259012.jpg">
+<a/>
+<p/>
 
 <!--
 **WellingtonFidelis/WellingtonFidelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
